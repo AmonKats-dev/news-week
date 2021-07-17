@@ -1,0 +1,269 @@
+.wrapper{
+    background-color: #f3f3f7;
+}
+.main-body{
+    background-color: #fff;
+    width: 1200px;
+    height: 900px;
+    margin: auto;
+}
+.top-header-nav{
+    background-color: red;
+    height: 92px;
+}
+#days-week{
+    color: #fff;
+    padding-top: 40px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#newsweek{
+    margin-left: 430px;
+    margin-top: -60px;
+}
+#login{
+    margin-left: 940px;
+    margin-top: -45px;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#a-login{
+    color: #fff;
+    text-decoration: none;
+}
+#subscribe-button{
+    color: black;
+    text-decoration: none;
+}
+#btn-subscribe{
+    margin-left: 1030px;
+    margin-top: -25px;
+}
+#btn{
+    border-radius: 25px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(248, 248, 9);
+    border-color: rgb(248, 248, 9);
+}
+#search-icon{
+    border-color: #fff;
+}
+.middle-header-nav{
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 1px solid rgb(230, 226, 226);
+    font-size: 18px;
+}
+.middle-header-nav a:hover{
+    color: red;
+}
+.us{
+    color: black;
+    border-right-style: solid;
+    border-right-width: 0.0640rem;
+    border-right-color: #ccc6c6;
+    padding-right: 15px;
+}
+.weather{
+    color: black;
+    padding-right: 5px;
+}
+.trend-text{
+    color: gray;
+}
+#middle-header-nav{
+    /* margin-right: 5px; */
+    margin-left: 10px;
+    text-decoration: none;
+}
+.last-header-nav{
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 1px solid rgb(230, 226, 226);
+}
+.last-header-nav a:hover{
+    color: red;
+}
+#last-header-nav{
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.img-caption-one{
+    /* background-color: greenyellow; */
+    width: 310px;
+    margin-left: 40px;
+}
+.img-caption-two{
+    /* background-color: greenyellow; */
+    width: 440px;
+    margin-left: 40px;
+    margin-top: -328px;
+    margin-left: 365px;
+}
+.img-caption-three{
+    /* background-color: greenyellow; */
+    width: 310px;
+    margin-top: -40px;
+    margin-left: 40px;
+}
+.img-caption-four{
+    /* background-color: greenyellow; */
+    width: 135px;
+    margin-top: -255px;
+    margin-left: 365px;
+}
+.img-caption-five{
+    /* background-color: greenyellow; */
+    width: 135px;
+    margin-top: -200px;
+    margin-left: 509px;
+    padding: 4px;
+}
+.img-caption-six{
+    /* background-color: greenyellow; */
+    width: 135px;
+    margin-top: -200px;
+    margin-left: 660px;
+    padding: 4px;
+}
+#biden-wife{
+    margin-top: -15px;
+}
+#featured-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+#myturn-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+#biden-wife-bottom-heading-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5px;
+}
+#biden-wife-bottom-heading-text{
+    text-decoration: none;
+    color: black;
+}
+#biden-wife-bottom-heading-text a:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+#politics-text{
+    position: absolute;
+    top: 423px;
+    background-color: #fff;
+    color: red;
+    padding: 4px;
+    font-size: 17px;
+    line-height: 18px;
+}
+#us-text{
+    position: absolute;
+    top: 482px;
+    background-color: #fff;
+    color: red;
+    padding: 4px;
+    font-size: 17px;
+    line-height: 18px;
+}
+#business-text{
+    position: absolute;
+    top: 723px;
+    background-color: #fff;
+    color: red;
+    padding: 4px;
+    font-size: 17px;
+    line-height: 18px;
+}
+#sa-protests{
+    margin-top: -20px;
+}
+#haiti-protests{
+    margin-top: 20px;
+}
+#black-protests{
+    margin-top: 15px;
+}
+#biden-wife-story-description{
+    color: gray;
+}
+.right-side-nav{
+    /* background-color: greenyellow; */
+    width: 380px;
+    height: 620px;
+    margin-top: -612px;
+    margin-left: 820px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#border-div{
+    border-bottom: 4px solid rgb(189, 186, 186);
+    margin-top: -15px;
+    margin-bottom: 12px;
+}
+#third-border-div{
+    border-bottom: 4px solid rgb(189, 186, 186);
+    margin-top: 8px;
+}
+#mark{
+    border-radius: 40px;
+}
+#mark-text{
+    margin-top: -50px;
+    margin-left: 70px;
+}
+#zucker{
+    color: gray;
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+#border-btm-div{
+    border-bottom: 3px solid rgb(189, 186, 186);
+}
+#bill-text{
+    width: 280px;
+    margin-top: 15px;
+}
+#bill-icon{
+    margin-left: 300px;
+    margin-top: -75px;
+}
+#gates{
+    color: gray;
+    margin-top: 5px;
+}
+#bill{
+    border-radius: 28px;
+}
+#kim-icon{
+
+    border-radius: 34px;
+    padding-top: 5px;
+}
+#kim{
+    margin-top: -55px;
+    margin-left: 75px;
+}
+#kim-text{
+    color: gray;
+    margin-top: 5px;
+}
+#kim-border{
+    border-bottom: 1px solid rgb(187, 178, 178);
+    margin-bottom: 10px;
+    margin-left: -75px;
+}
+.right-nav{
+    text-decoration: none;
+    color: black;
+}
+.right-nav a:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
